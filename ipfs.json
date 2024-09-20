@@ -5,19 +5,19 @@
   "attributes": [
     {
       "trait_type": "Quantidade de Verificações no Dia",
-      "value": 100
+      "value": "100"
     },
     {
       "trait_type": "Quantidade de Sucessos na Conciliação",
-      "value": 95
+      "value": "95"
     },
     {
       "trait_type": "Quantidade de Falhas na Conciliação",
-      "value": 5
+      "value": "5"
     },
     {
       "trait_type": "Falhas por Problemas de Infraestrutura",
-      "value": 2
+      "value": "2"
     },
     {
       "trait_type": "Cliente",
