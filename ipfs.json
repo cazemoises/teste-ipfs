@@ -1,27 +1,47 @@
 {
-  "name": "Proof of Reserve Report #001",
-  "description": "This NFT represents the daily proof of reserve report for October 3, 2024, summarizing the onchain and offchain balance verification.",
-  "image": "https://cazemoises.github.io/teste-ipfs/imagem.png",
-  "external_url": "https://your-server.com/nft/001",
+  "name": "Proof of Reserve Report - 2024-10-03",
+  "description": "This NFT represents the daily proof of reserve report for October 3, 2024, summarizing the total onchain and offchain balances, as well as the distribution across various networks and assets.",
+  "image": "https://your-server.com/images/nft-report-2024-10-03.png",
+  "external_url": "https://your-server.com/nft/2024-10-03",
   "attributes": [
     {
-      "trait_type": "Onchain Balance",
-      "value": "1200000 USDC"
+      "trait_type": "Saldo Total Onchain",
+      "value": "1500000 USDC"
     },
     {
-      "trait_type": "Offchain Balance",
-      "value": "1180000 USDC"
+      "trait_type": "Saldo Total Offchain",
+      "value": "1450000 USDC"
     },
     {
-      "trait_type": "Banks",
-      "value": "Bank A, Bank B, Bank C"
+      "trait_type": "Percentual do Saldo na Polygon",
+      "value": "40%"
     },
     {
-      "trait_type": "Blockchain Networks",
-      "value": "Ethereum, Polygon"
+      "trait_type": "Percentual do Saldo na Celo",
+      "value": "20%"
     },
     {
-      "trait_type": "Verification Date",
+      "trait_type": "Percentual do Saldo na XRP",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Percentual do Saldo na Moonbeam",
+      "value": "5%"
+    },
+    {
+      "trait_type": "Percentual do Saldo em Caixa",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Percentual do Saldo em Renda Fixa Digital",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Diferença do Saldo Onchain vs Offchain",
+      "value": "-50000 USDC"
+    },
+    {
+      "trait_type": "Data da Verificação",
       "value": "2024-10-03"
     }
   ]
