@@ -1,31 +1,29 @@
 {
-  "name": "Conciliação Diário - BRLA",
-  "description": "Relatório de conciliações e verificações diárias para o cliente BRLA.",
-  "image": "https://ipfs.io/ipfs/QmSomeImageHash", 
+  "name": "Proof of Reserve Report #001",
+  "description": "This NFT represents the daily proof of reserve report for October 3, 2024, summarizing the onchain and offchain balance verification.",
+  "image": "https://github.com/cazemoises/teste-ipfs/blob/main/imagem.png",
+  "external_url": "https://your-server.com/nft/001",
   "attributes": [
     {
-      "trait_type": "Quantidade de Verificações no Dia",
-      "value": "100"
+      "trait_type": "Onchain Balance",
+      "value": "1200000 USDC"
     },
     {
-      "trait_type": "Quantidade de Sucessos na Conciliação",
-      "value": "95"
+      "trait_type": "Offchain Balance",
+      "value": "1180000 USDC"
     },
     {
-      "trait_type": "Quantidade de Falhas na Conciliação",
-      "value": "5"
+      "trait_type": "Banks",
+      "value": "Bank A, Bank B, Bank C"
     },
     {
-      "trait_type": "Falhas por Problemas de Infraestrutura",
-      "value": "2"
+      "trait_type": "Blockchain Networks",
+      "value": "Ethereum, Polygon"
     },
     {
-      "trait_type": "Cliente",
-      "value": "BRLA"
-    },
-    {
-      "trait_type": "Data da Conciliação",
-      "value": "2024-09-20"
+      "trait_type": "Verification Date",
+      "value": "2024-10-03"
     }
   ]
 }
+
