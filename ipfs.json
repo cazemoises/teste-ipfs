@@ -2,47 +2,46 @@
   "name": "Proof of Reserve Reports - 2024-10-03",
   "description": "This NFT represents the daily proof of reserve report for October 3, 2024, summarizing the total onchain and offchain balances, as well as the distribution across various networks and assets.",
   "image": "https://cazemoises.github.io/teste-ipfs/imagem.png",
-  "external_url": "https://your-server.com/nft/2024-10-03",
   "attributes": [
     {
       "trait_type": "Saldo Total Onchain",
-      "value": "1500000 USDC"
+      "value": "3224052.74 BRLA"
     },
     {
       "trait_type": "Saldo Total Offchain",
-      "value": "1450000 USDC"
+      "value": "R$60518401.08"
     },
     {
       "trait_type": "Percentual do Saldo na Polygon",
-      "value": "40%"
+      "value": "84.6%"
     },
     {
       "trait_type": "Percentual do Saldo na Celo",
-      "value": "20%"
+      "value": "5.66%"
     },
     {
       "trait_type": "Percentual do Saldo na XRP",
-      "value": "10%"
+      "value": "0.00001%"
     },
     {
       "trait_type": "Percentual do Saldo na Moonbeam",
-      "value": "5%"
+      "value": "9.74%"
     },
     {
-      "trait_type": "Percentual do Saldo em Caixa",
-      "value": "15%"
+      "trait_type": "Percentual do Saldo FIAT em Conta",
+      "value": "31.58%"
     },
     {
       "trait_type": "Percentual do Saldo em Renda Fixa Digital",
-      "value": "10%"
+      "value": "68.42%"
     },
     {
       "trait_type": "Diferença do Saldo Onchain vs Offchain",
-      "value": "-50000 USDC"
+      "value": "R$57294348.34"
     },
     {
       "trait_type": "Data da Verificação",
-      "value": "2024-10-03"
+      "value": "2024-10-11"
     }
   ]
 }
